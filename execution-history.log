@@ -1,0 +1,69 @@
+timestamp,message
+1773402802368,"INIT_START Runtime Version: python:3.13.mainlinev2.v3	Runtime Version ARN: arn:aws:lambda:ap-south-1::runtime:b0f2d40716005f99e1e65ab9c4ba4749be69e8c44df93eecbb62a1fff12bd80f
+"
+1773402802699,"START RequestId: 0a18e6f7-bafa-4f05-b3fb-5520a36a3172 Version: $LATEST
+"
+1773402806488,"No orphaned snapshots found. No email sent.
+"
+1773402806528,"END RequestId: 0a18e6f7-bafa-4f05-b3fb-5520a36a3172
+"
+1773402806528,"REPORT RequestId: 0a18e6f7-bafa-4f05-b3fb-5520a36a3172	Duration: 3828.58 ms	Billed Duration: 4157 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	Init Duration: 327.56 ms	
+"
+1773402816084,"START RequestId: fd69b3fa-9cae-4ea0-b1bc-bab6f2f409c2 Version: $LATEST
+"
+1773402816559,"No orphaned snapshots found. No email sent.
+"
+1773402816568,"END RequestId: fd69b3fa-9cae-4ea0-b1bc-bab6f2f409c2
+"
+1773402816568,"REPORT RequestId: fd69b3fa-9cae-4ea0-b1bc-bab6f2f409c2	Duration: 482.89 ms	Billed Duration: 483 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402862325,"START RequestId: a59f6fcf-5dab-49bb-a95f-71ac09b4dee2 Version: $LATEST
+"
+1773402862825,"No orphaned snapshots found. No email sent.
+"
+1773402862868,"END RequestId: a59f6fcf-5dab-49bb-a95f-71ac09b4dee2
+"
+1773402862868,"REPORT RequestId: a59f6fcf-5dab-49bb-a95f-71ac09b4dee2	Duration: 542.20 ms	Billed Duration: 543 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402876058,"START RequestId: fd69b3fa-d8ae-4ea0-b1bc-bab6f2f409c2 Version: $LATEST
+"
+1773402876557,"No orphaned snapshots found. No email sent.
+"
+1773402876588,"END RequestId: fd69b3fa-d8ae-4ea0-b1bc-bab6f2f409c2
+"
+1773402876588,"REPORT RequestId: fd69b3fa-d8ae-4ea0-b1bc-bab6f2f409c2	Duration: 528.97 ms	Billed Duration: 529 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402922318,"START RequestId: 57bab903-7756-435f-b559-dad408ec7831 Version: $LATEST
+"
+1773402922952,"Successfully deleted orphaned snapshot: snap-02df**********s7c
+"
+1773402923139,"SNS notification sent.
+"
+1773402923188,"END RequestId: 57bab903-7756-435f-b559-dad408ec7831
+"
+1773402923188,"REPORT RequestId: 57bab903-7756-435f-b559-dad408ec7831	Duration: 868.85 ms	Billed Duration: 869 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402936111,"START RequestId: fd69b3fb-14ae-4ea0-b1bc-bab6f2f409c2 Version: $LATEST
+"
+1773402936542,"No orphaned snapshots found. No email sent.
+"
+1773402936567,"END RequestId: fd69b3fb-14ae-4ea0-b1bc-bab6f2f409c2
+"
+1773402936567,"REPORT RequestId: fd69b3fb-14ae-4ea0-b1bc-bab6f2f409c2	Duration: 455.06 ms	Billed Duration: 456 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402982183,"START RequestId: 4e9ff589-5935-4912-bb26-5b42a26a5e69 Version: $LATEST
+"
+1773402982716,"No orphaned snapshots found. No email sent.
+"
+1773402982747,"END RequestId: 4e9ff589-5935-4912-bb26-5b42a26a5e69
+"
+1773402982747,"REPORT RequestId: 4e9ff589-5935-4912-bb26-5b42a26a5e69	Duration: 563.89 ms	Billed Duration: 564 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
+1773402996100,"START RequestId: fd69b3fb-50ae-4ea0-b1bc-bab6f2f409c2 Version: $LATEST
+"
+1773402996496,"No orphaned snapshots found. No email sent.
+"
+1773402996547,"END RequestId: fd69b3fb-50ae-4ea0-b1bc-bab6f2f409c2
+"
+1773402996547,"REPORT RequestId: fd69b3fb-50ae-4ea0-b1bc-bab6f2f409c2	Duration: 447.42 ms	Billed Duration: 448 ms	Memory Size: 128 MB	Max Memory Used: 99 MB	
+"
