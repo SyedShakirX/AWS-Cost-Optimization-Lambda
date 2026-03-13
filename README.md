@@ -1,3 +1,13 @@
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Boto3](https://img.shields.io/badge/Boto3-AWS_SDK-blue?style=for-the-badge&logo=python&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+
+</div>
+
 # AWS Cost Optimization: Automated EBS Snapshot Cleanup
 
 ##  Overview
